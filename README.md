@@ -1,6 +1,6 @@
 # Azure Data Fundamentals - Study Notes
 
-Welcome to my **Azure Data Fundamentals** study notes! This repository contains my personal summaries and insights from learning about Azure data concepts, storage solutions, and processing techniques.
+Welcome to my **Azure Data Fundamentals** study notes! This repository contains my personal summaries and insights from learning about Azure data concepts, storage solutions, database services, and data processing techniques.
 
 ## 🚀 About This Repository
 This repository serves as a collection of notes based on publicly available Microsoft documentation, training, and personal study sessions. It is **not an official Microsoft resource** and should be used as a reference for learning purposes only.
@@ -9,8 +9,11 @@ This repository serves as a collection of notes based on publicly available Micr
 - Identifying common data formats
 - Exploring file storage options
 - Understanding databases (Relational & NoSQL)
+- Azure SQL Services and Open-Source Databases
 - Transactional data processing (OLTP & ACID principles)
 - Analytical data processing (Data Lakes, Warehouses, OLAP)
+- Data governance and security (Microsoft Purview)
+- Knowledge checks and assessments
 
 ## 🔍 Disclaimer
 - This repository **does not** contain proprietary or confidential Microsoft content.
